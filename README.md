@@ -30,13 +30,11 @@ Para usar um domínio próprio (por exemplo, `www.seudominio.com.br`), informe-o
 
 O formulário não precisa de servidor: ao clicar em **Enviar pedido**, ele abre o WhatsApp `(79) 99985-7711` com a mensagem já preenchida (nome, empresa, telefone, serviço e detalhes). Para trocar o número, edite `5579999857711` no `index.html` (aparece nos botões e no script no fim do arquivo).
 
-## Pendências de conteúdo
+## Contatos
 
-Trechos entre colchetes no `index.html` precisam ser preenchidos antes de divulgar o site:
-
-- Fotos e nomes das obras na seção **Projetos** (`[FOTO DO PROJETO]`, `[Nome da obra]`, `[Cidade/SE]`).
-- História do Eri: início da carreira, marcos, ano de fundação da Gama e a frase dele.
-- CNPJ no rodapé (`[SEU CNPJ]`).
+- (79) 99985-7711 (telefone e WhatsApp principal)
+- (79) 99687-3088 (WhatsApp comercial)
+- CNPJ 57.841.494/0001-54
 
 ## Identidade visual
 
